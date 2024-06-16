@@ -1,0 +1,6 @@
+Bartlomiej: Remis: 6 s
+Adrian: Wygrana gracza: 8 s
+Adam: Wygrana komputera: 4 s
+Piotr: Wygrana gracza: 5 s
+Bartek: Wygrana gracza: 4 s
+adam: Remis: 3 s
